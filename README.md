@@ -1,2 +1,2 @@
 # Pokedex
-iOS pokedex app
+iOS pokedex app with online requests for the details view controllers
